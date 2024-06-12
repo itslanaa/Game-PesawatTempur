@@ -17,6 +17,7 @@
 Pastikan telah menginstal Python 3.6 atau lebih baru. dan juga perlu menginstal lib `Ursina`. dapat menginstalnya menggunakan `pip`:
 ```bash
 pip install ursina
+```
 
 ## Cara Menjalankan Game
 - Clone repository ini atau unduh sebagai ZIP dan ekstrak di komputer Anda.
@@ -24,6 +25,7 @@ pip install ursina
 - Jalankan game dengan perintah berikut:
 ```bash
 python nama_file.py
+```
 
 ## License
 This Fighter Jet Game is licensed under the MIT License.
