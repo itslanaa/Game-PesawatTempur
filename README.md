@@ -30,3 +30,7 @@ python nama_file.py
 ## Lisensi
 Game Pesawat Tempur ini dilisensikan di bawah MIT [MIT License](LICENSE).
 
+## Project Contributor
+Tegar Bangkit Nugroho | Dadan Ramdani | Bagas Aditiya
+| Guntur Malik Fajar | Kaka Maulana Abdillah
+
