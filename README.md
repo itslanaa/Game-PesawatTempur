@@ -27,6 +27,6 @@ pip install ursina
 python nama_file.py
 ```
 
-## License
-This Fighter Jet Game is licensed under the MIT License.
+## Lisensi
+Game Pesawat Tempur ini dilisensikan di bawah MIT [MIT License](LICENSE).
 
